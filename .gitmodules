@@ -1,0 +1,3 @@
+[submodule "inventaire"]
+	path = inventaire
+	url = https://github.com/Redgakill/TP-Github-Inventaire.git
